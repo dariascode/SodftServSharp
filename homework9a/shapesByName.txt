@@ -1,0 +1,12 @@
+Name: Square1
+Area: 26.01
+Perimeter: 20.4
+
+Name: Square2
+Area: 13.69
+Perimeter: 14.8
+
+Name: Square3
+Area: 62.41
+Perimeter: 31.6
+
